@@ -1,3 +1,1 @@
-Version initiale de l'application.
-Ajout de la fonctionnalité 1.
-Ligne modofiée par A
+Ligne modifiée par A et B.
